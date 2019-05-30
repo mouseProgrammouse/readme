@@ -53,6 +53,7 @@ __also bold__
 ### Images
 ```
 ![Alt Text](url)
+<img src="" width="500"/>
 ```
 
 ### Blockquotes
@@ -60,3 +61,9 @@ __also bold__
 
 ### Inline code
 ```  `<head></head>` is my fav tag```
+
+## Icons
+
+Figma | jQuery | Behance | gAnalytics
+------------ | ------------- | ------------- | -------------
+<img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/figma-logo.png" width="48"/> | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/jquery.png" width="48"/> | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/behance-logo.png" width="48"/> | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/analitics.png" width="48"/>
