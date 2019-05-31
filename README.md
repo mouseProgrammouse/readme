@@ -64,6 +64,9 @@ __also bold__
 
 ## Icons
 
-Figma | jQuery | Behance | gAnalytics
------------- | ------------- | ------------- | -------------
-<img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/figma-logo.png" width="48"/> | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/jquery.png" width="48"/> | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/behance-logo.png" width="48"/> | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/analitics.png" width="48"/>
+|      |   icon   |
+|----------|----------|
+| Figma | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/figma-logo.png" width="48"/>|
+| JQuery | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/jquery.png" width="48"/>| 
+| Analitics | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/analitics.png" width="48"/>|
+| Behance | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/behance-logo.png" width="48"/>|
