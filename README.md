@@ -68,7 +68,8 @@ __also bold__
 |----------|----------|
 | Figma | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/figma-logo.png" width="48"/>|
 | JQuery | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/jquery.png" width="48"/>| 
-| Analitics | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/analitics.png" width="48"/>|
+| Google Analitics | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/analitics.png" width="48"/>|
 | Behance | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/behance-logo.png" width="48"/>|
 | Amazon Web Services | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/amazon-web-services.png" width="48"/>|
 | Normalize.css | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/normalize.png" width="48"/>|
+| Google Map API | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/google-map-API.png" width="48"/>|
