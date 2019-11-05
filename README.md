@@ -73,3 +73,5 @@ __also bold__
 | Amazon Web Services | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/amazon-web-services.png" width="48"/>|
 | Normalize.css | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/normalize.png" width="48"/>|
 | Google Map API | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/google-map-API.png" width="48"/>|
+| React | <img src="https://github.com/mouseProgrammouse/readme/blob/master/icons/react.png" width="48"/>|
+| EmailJS | <img src="https://github.com/mouseProgrammouse/readme/blob/master/icons/emailJS.png" width="48"/>|
