@@ -75,3 +75,4 @@ __also bold__
 | Google Map API | <img src="https://raw.githubusercontent.com/mouseProgrammouse/readme/master/icons/google-map-API.png" width="48"/>|
 | React | <img src="https://github.com/mouseProgrammouse/readme/blob/master/icons/react.png" width="48"/>|
 | EmailJS | <img src="https://github.com/mouseProgrammouse/readme/blob/master/icons/emailJS.png" width="48"/>|
+| Font Awesome | <img src="https://github.com/mouseProgrammouse/readme/blob/master/icons/font-awesome.png" width="48"/>|
